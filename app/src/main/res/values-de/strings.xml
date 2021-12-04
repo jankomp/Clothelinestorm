@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wäschesturm</string>
+    <string name="greeting">Hallo und herzlich Willkommen zum Wäschesturm!</string>
+    <string name="start">Spiel starten</string>
+    <string name="help">Hilfe</string>
+    <string name="exit">Beenden</string>
+    <string name="options">Optionen</string>
+
+    <string name="next">Weiter</string>
+    <string name="back">zurück zum Menü</string>
+    <string name="saveHighscore">Highscore speichern</string>
+    <string name="highscoreName">Spielername</string>
+    <string name ="score">Punkte:</string>
+
+    <string name ="soundOn">Ton an</string>
+    <string name ="SoundOff">Ton aus</string>
+
+    <string name="SkipVideo">Video überspringen</string>
+
+    <string name="helpControl">Steuerung</string>
+    <string name="helpRight">Um den Wäschekorb nach rechts zu bewegen muss man den Korb am Bildschirm berühren und nach rechts ziehen.</string>
+    <string name="helpLeft">Um den Wäschekorb nach links zu bewegen muss man den Korb zur linken Seite schieben.</string>
+    <string name="helpSymbols">Bildschirmsymbole</string>
+    <string name="chooseLevel">Wähle ein Level aus</string>
+    <string name="helpSymbolOptions">Oben rechts befinden sich zwei gelbe Symbole, die Sound on/off und Pause/Play darstellen.</string>
+    <string name="helpSymbolClothes">Oben links befindet sich ein Hemdsymbol mit zwei Zahlen. Die linke Zahl gibt an wie viele Wäschestücke schon in den Schmutz gefallen sind, die rechte Zahl zeigt wie viele Kleidungsstücke zu Boden fallen können, bevor man das Level verliert.</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="title_activity_game_won">GameWonActivity</string>
+    <string name="title_activity_levels">Level</string>
+    <string name="jungle">Dschungel</string>
+    <string name="snow">Schnee</string>
+    <string name="city">Stadt</string>
+    <string name="winning">Ein Spiel gewinnen</string>
+    <string name="win">Um ein Spiel zu gewinnen muss man so viele Kleidungsstücke wie möglich fangen, bevor sie auf den Boden fallen und man Leben verliert. Pro Level hat man eine unterschiedliche Anzahl an Leben (Anzahl an Kleidungsstücken, die auf den Boden fallen dürfen). Highscores werden nur mit Spielernamen gespeichert. Kleidung von der obersten Wäscheleine bringen 500 Punkte, von der mittleren 1000 und von der unteren 1500 Punkte.</string>
+
+
+
+
+</resources>

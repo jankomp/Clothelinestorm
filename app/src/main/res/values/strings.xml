@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Clothesline Storm</string>
+    <string name="greeting">Hello and welcome to Clotheslines Storm!</string>
+    <string name="start">Start game</string>
+    <string name="help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="options">Options</string>
+
+    <string name="next">Continue</string>
+    <string name="back">back to menu</string>
+    <string name="saveHighscore">save Highscore</string>
+    <string name="highscoreName">username</string>
+    <string name="score">Score:</string>
+
+    <string name="soundOn">Sound on</string>
+    <string name="SoundOff">Sound off</string>
+
+    <string name="SkipVideo">Skip Video</string>
+
+    <string name="helpControl">Control</string>
+    <string name="helpRight">To move the laundry basket to the right, hold the laundry basket with your finger and slide to the right side.</string>
+    <string name="helpLeft">To move the laundry basket to the left, tap on the laundry basket and move your finger to the left.</string>
+    <string name="helpSymbols">Onscreen Symbols</string>
+    <string name="chooseLevel">choose a level</string>
+    <string name="helpSymbolOptions"> At the top right, there are two yellow buttons implicating sound on/off an pause/play. </string>
+    <string name="helpSymbolClothes">On the top left side you can see a shirt symbol with two numbers. The left number indicates how many clothes fell on the ground, the number on the right side shows how many pieces can hit the ground before you loose the level.</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="title_activity_game_won">GameWonActivity</string>
+    <string name="title_activity_levels">levels</string>
+    <string name="jungle">jungle</string>
+    <string name="snow">snow</string>
+    <string name="city">city</string>
+    <string name="winning">Winning a game</string>
+    <string name="win">To win a game you have to catch as many clothing pieces as you can before they reach the ground. Every level you have a different count of life\'s (number of clothes that are allowed to hit the ground). Highscores will be saved with username only. Clothes on the top line bring 500 points, on the middle line 1000 and on the bottom line 1500 points.</string>
+
+</resources>
